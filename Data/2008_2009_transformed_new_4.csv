@@ -1,0 +1,761 @@
+squadra,avversario,home/away,punti,numero della giornata,punti cumulativi,punti avversario,punti cumulativi before match,punti avversario before match,differenza punti before match
+Arsenal,West Brom,home,3,1,3,0,0,0,0
+West Brom,Arsenal,away,0,1,0,3,0,0,0
+Bolton,Stoke,home,3,2,3,0,0,0,0
+Stoke,Bolton,away,0,2,0,3,0,0,0
+Everton,Blackburn,home,0,3,0,3,0,0,0
+Blackburn,Everton,away,3,3,3,0,0,0,0
+Hull,Fulham,home,3,4,3,0,0,0,0
+Fulham,Hull,away,0,4,0,3,0,0,0
+Middlesbrough,Tottenham,home,3,5,3,0,0,0,0
+Tottenham,Middlesbrough,away,0,5,0,3,0,0,0
+Sunderland,Liverpool,home,0,6,0,3,0,0,0
+Liverpool,Sunderland,away,3,6,3,0,0,0,0
+West Ham,Wigan,home,3,7,3,0,0,0,0
+Wigan,West Ham,away,0,7,0,3,0,0,0
+Aston Villa,Man City,home,3,8,3,0,0,0,0
+Man City,Aston Villa,away,0,8,0,3,0,0,0
+Chelsea,Portsmouth,home,3,9,3,0,0,0,0
+Portsmouth,Chelsea,away,0,9,0,3,0,0,0
+Man United,Newcastle,home,1,10,1,1,0,0,0
+Newcastle,Man United,away,1,10,1,1,0,0,0
+Blackburn,Hull,home,1,11,4,4,3,3,0
+Hull,Blackburn,away,1,11,4,4,3,3,0
+Fulham,Arsenal,home,3,12,3,3,0,3,-3
+Arsenal,Fulham,away,0,12,3,3,3,0,3
+Liverpool,Middlesbrough,home,3,13,6,3,3,3,0
+Middlesbrough,Liverpool,away,0,13,3,6,3,3,0
+Newcastle,Bolton,home,3,14,4,3,1,3,-2
+Bolton,Newcastle,away,0,14,3,4,3,1,2
+Stoke,Aston Villa,home,3,15,3,3,0,3,-3
+Aston Villa,Stoke,away,0,15,3,3,3,0,3
+Tottenham,Sunderland,home,0,16,0,3,0,0,0
+Sunderland,Tottenham,away,3,16,3,0,0,0,0
+West Brom,Everton,home,0,17,0,3,0,0,0
+Everton,West Brom,away,3,17,3,0,0,0,0
+Man City,West Ham,home,3,18,3,3,0,3,-3
+West Ham,Man City,away,0,18,3,3,3,0,3
+Wigan,Chelsea,home,0,19,0,6,0,3,-3
+Chelsea,Wigan,away,3,19,6,0,3,0,3
+Portsmouth,Man United,home,0,20,0,4,0,1,-1
+Man United,Portsmouth,away,3,20,4,0,1,0,1
+Arsenal,Newcastle,home,3,21,6,4,3,4,-1
+Newcastle,Arsenal,away,0,21,4,6,4,3,1
+Bolton,West Brom,home,1,22,4,1,3,0,3
+West Brom,Bolton,away,1,22,1,4,0,3,-3
+Everton,Portsmouth,home,0,23,3,3,3,0,3
+Portsmouth,Everton,away,3,23,3,3,0,3,-3
+Hull,Wigan,home,0,24,4,3,4,0,4
+Wigan,Hull,away,3,24,3,4,0,4,-4
+Middlesbrough,Stoke,home,3,25,6,3,3,3,0
+Stoke,Middlesbrough,away,0,25,3,6,3,3,0
+West Ham,Blackburn,home,3,26,6,4,3,4,-1
+Blackburn,West Ham,away,0,26,4,6,4,3,1
+Aston Villa,Liverpool,home,1,27,4,7,3,6,-3
+Liverpool,Aston Villa,away,1,27,7,4,6,3,3
+Chelsea,Tottenham,home,1,28,7,1,6,0,6
+Tottenham,Chelsea,away,1,28,1,7,0,6,-6
+Sunderland,Man City,home,0,29,3,6,3,3,0
+Man City,Sunderland,away,3,29,6,3,3,3,0
+Blackburn,Arsenal,home,0,30,4,9,4,6,-2
+Arsenal,Blackburn,away,3,30,9,4,6,4,2
+Fulham,Bolton,home,3,31,6,4,3,4,-1
+Bolton,Fulham,away,0,31,4,6,4,3,1
+Liverpool,Man United,home,3,32,10,4,7,4,3
+Man United,Liverpool,away,0,32,4,10,4,7,-3
+Man City,Chelsea,home,0,33,6,10,6,7,-1
+Chelsea,Man City,away,3,33,10,6,7,6,1
+Newcastle,Hull,home,0,34,4,7,4,4,0
+Hull,Newcastle,away,3,34,7,4,4,4,0
+Portsmouth,Middlesbrough,home,3,35,6,6,3,6,-3
+Middlesbrough,Portsmouth,away,0,35,6,6,6,3,3
+West Brom,West Ham,home,3,36,4,6,1,6,-5
+West Ham,West Brom,away,0,36,6,4,6,1,5
+Wigan,Sunderland,home,1,37,4,4,3,3,0
+Sunderland,Wigan,away,1,37,4,4,3,3,0
+Stoke,Everton,home,0,38,3,6,3,3,0
+Everton,Stoke,away,3,38,6,3,3,3,0
+Tottenham,Aston Villa,home,0,39,1,7,1,4,-3
+Aston Villa,Tottenham,away,3,39,7,1,4,1,3
+Blackburn,Fulham,home,3,40,7,6,4,6,-2
+Fulham,Blackburn,away,0,40,6,7,6,4,2
+Bolton,Arsenal,home,0,41,4,12,4,9,-5
+Arsenal,Bolton,away,3,41,12,4,9,4,5
+Liverpool,Stoke,home,1,42,11,4,10,3,7
+Stoke,Liverpool,away,1,42,4,11,3,10,-7
+Sunderland,Middlesbrough,home,3,43,7,6,4,6,-2
+Middlesbrough,Sunderland,away,0,43,6,7,6,4,2
+West Ham,Newcastle,home,3,44,9,4,6,4,2
+Newcastle,West Ham,away,0,44,4,9,4,6,-2
+Chelsea,Man United,home,1,45,11,5,10,4,6
+Man United,Chelsea,away,1,45,5,11,4,10,-6
+Hull,Everton,home,1,46,8,7,7,6,1
+Everton,Hull,away,1,46,7,8,6,7,-1
+Man City,Portsmouth,home,3,47,9,6,6,6,0
+Portsmouth,Man City,away,0,47,6,9,6,6,0
+Tottenham,Wigan,home,1,48,2,5,1,4,-3
+Wigan,Tottenham,away,1,48,5,2,4,1,3
+West Brom,Aston Villa,home,0,49,4,10,4,7,-3
+Aston Villa,West Brom,away,3,49,10,4,7,4,3
+Arsenal,Hull,home,0,50,12,11,12,8,4
+Hull,Arsenal,away,3,50,11,12,8,12,-4
+Aston Villa,Sunderland,home,3,51,13,7,10,7,3
+Sunderland,Aston Villa,away,0,51,7,13,7,10,-3
+Everton,Liverpool,home,0,52,7,14,7,11,-4
+Liverpool,Everton,away,3,52,14,7,11,7,4
+Fulham,West Ham,home,0,53,6,12,6,9,-3
+West Ham,Fulham,away,3,53,12,6,9,6,3
+Man United,Bolton,home,3,54,8,4,5,4,1
+Bolton,Man United,away,0,54,4,8,4,5,-1
+Middlesbrough,West Brom,home,0,55,6,7,6,4,2
+West Brom,Middlesbrough,away,3,55,7,6,4,6,-2
+Newcastle,Blackburn,home,0,56,4,10,4,7,-3
+Blackburn,Newcastle,away,3,56,10,4,7,4,3
+Stoke,Chelsea,home,0,57,4,14,4,11,-7
+Chelsea,Stoke,away,3,57,14,4,11,4,7
+Portsmouth,Tottenham,home,3,58,9,2,6,2,4
+Tottenham,Portsmouth,away,0,58,2,9,2,6,-4
+Wigan,Man City,home,3,59,8,9,5,9,-4
+Man City,Wigan,away,0,59,9,8,9,5,4
+Blackburn,Man United,home,0,60,10,11,10,8,2
+Man United,Blackburn,away,3,60,11,10,8,10,-2
+Sunderland,Arsenal,home,1,61,8,13,7,12,-5
+Arsenal,Sunderland,away,1,61,13,8,12,7,5
+West Brom,Fulham,home,3,62,10,6,7,6,1
+Fulham,West Brom,away,0,62,6,10,6,7,-1
+Wigan,Middlesbrough,home,0,63,8,9,8,6,2
+Middlesbrough,Wigan,away,3,63,9,8,6,8,-2
+Chelsea,Aston Villa,home,3,64,17,13,14,13,1
+Aston Villa,Chelsea,away,0,64,13,17,13,14,-1
+Everton,Newcastle,home,1,65,8,5,7,4,3
+Newcastle,Everton,away,1,65,5,8,4,7,-3
+Man City,Liverpool,home,0,66,9,17,9,14,-5
+Liverpool,Man City,away,3,66,17,9,14,9,5
+Portsmouth,Stoke,home,3,67,12,4,9,4,5
+Stoke,Portsmouth,away,0,67,4,12,4,9,-5
+Tottenham,Hull,home,0,68,2,14,2,11,-9
+Hull,Tottenham,away,3,68,14,2,11,2,9
+West Ham,Bolton,home,0,69,12,7,12,4,8
+Bolton,West Ham,away,3,69,7,12,4,12,-8
+Arsenal,Everton,home,3,70,16,8,13,8,5
+Everton,Arsenal,away,0,70,8,16,8,13,-5
+Aston Villa,Portsmouth,home,1,71,14,13,13,12,1
+Portsmouth,Aston Villa,away,1,71,13,14,12,13,-1
+Bolton,Blackburn,home,1,72,8,11,7,10,-3
+Blackburn,Bolton,away,1,72,11,8,10,7,3
+Fulham,Sunderland,home,1,73,7,9,6,8,-2
+Sunderland,Fulham,away,1,73,9,7,8,6,2
+Liverpool,Wigan,home,3,74,20,8,17,8,9
+Wigan,Liverpool,away,0,74,8,20,8,17,-9
+Man United,West Brom,home,3,75,14,10,11,10,1
+West Brom,Man United,away,0,75,10,14,10,11,-1
+Middlesbrough,Chelsea,home,0,76,9,20,9,17,-8
+Chelsea,Middlesbrough,away,3,76,20,9,17,9,8
+Hull,West Ham,home,3,77,17,12,14,12,2
+West Ham,Hull,away,0,77,12,17,12,14,-2
+Stoke,Tottenham,home,3,78,7,2,4,2,2
+Tottenham,Stoke,away,0,78,2,7,2,4,-2
+Newcastle,Man City,home,1,79,6,10,5,9,-4
+Man City,Newcastle,away,1,79,10,6,9,5,4
+Blackburn,Middlesbrough,home,1,80,12,10,11,9,2
+Middlesbrough,Blackburn,away,1,80,10,12,9,11,-2
+Everton,Man United,home,1,81,9,15,8,14,-6
+Man United,Everton,away,1,81,15,9,14,8,6
+Sunderland,Newcastle,home,3,82,12,6,9,6,3
+Newcastle,Sunderland,away,0,82,6,12,6,9,-3
+West Brom,Hull,home,0,83,10,20,10,17,-7
+Hull,West Brom,away,3,83,20,10,17,10,7
+Chelsea,Liverpool,home,0,84,20,23,20,20,0
+Liverpool,Chelsea,away,3,84,23,20,20,20,0
+Man City,Stoke,home,3,85,13,7,10,7,3
+Stoke,Man City,away,0,85,7,13,7,10,-3
+Portsmouth,Fulham,home,1,86,14,8,13,7,6
+Fulham,Portsmouth,away,1,86,8,14,7,13,-6
+Tottenham,Bolton,home,3,87,5,8,2,8,-6
+Bolton,Tottenham,away,0,87,8,5,8,2,6
+West Ham,Arsenal,home,0,88,12,19,12,16,-4
+Arsenal,West Ham,away,3,88,19,12,16,12,4
+Wigan,Aston Villa,home,0,89,8,17,8,14,-6
+Aston Villa,Wigan,away,3,89,17,8,14,8,6
+Newcastle,West Brom,home,3,90,9,10,6,10,-4
+West Brom,Newcastle,away,0,90,10,9,10,6,4
+Arsenal,Tottenham,home,1,91,20,6,19,5,14
+Tottenham,Arsenal,away,1,91,6,20,5,19,-14
+Aston Villa,Blackburn,home,3,92,20,12,17,12,5
+Blackburn,Aston Villa,away,0,92,12,20,12,17,-5
+Bolton,Everton,home,0,93,8,12,8,9,-1
+Everton,Bolton,away,3,93,12,8,9,8,1
+Fulham,Wigan,home,3,94,11,8,8,8,0
+Wigan,Fulham,away,0,94,8,11,8,8,0
+Hull,Chelsea,home,0,95,20,23,20,20,0
+Chelsea,Hull,away,3,95,23,20,20,20,0
+Liverpool,Portsmouth,home,3,96,26,14,23,14,9
+Portsmouth,Liverpool,away,0,96,14,26,14,23,-9
+Man United,West Ham,home,3,97,18,12,15,12,3
+West Ham,Man United,away,0,97,12,18,12,15,-3
+Middlesbrough,Man City,home,3,98,13,13,10,13,-3
+Man City,Middlesbrough,away,0,98,13,13,13,10,3
+Stoke,Sunderland,home,3,99,10,12,7,12,-5
+Sunderland,Stoke,away,0,99,12,10,12,7,5
+Chelsea,Sunderland,home,3,100,26,12,23,12,11
+Sunderland,Chelsea,away,0,100,12,26,12,23,-11
+Everton,Fulham,home,3,101,15,11,12,11,1
+Fulham,Everton,away,0,101,11,15,11,12,-1
+Man United,Hull,home,3,102,21,20,18,20,-2
+Hull,Man United,away,0,102,20,21,20,18,2
+Middlesbrough,West Ham,home,1,103,14,13,13,12,1
+West Ham,Middlesbrough,away,1,103,13,14,12,13,-1
+Portsmouth,Wigan,home,0,104,14,11,14,8,6
+Wigan,Portsmouth,away,3,104,11,14,8,14,-6
+Stoke,Arsenal,home,3,105,13,20,10,20,-10
+Arsenal,Stoke,away,0,105,20,13,20,10,10
+Tottenham,Liverpool,home,3,106,9,26,6,26,-20
+Liverpool,Tottenham,away,0,106,26,9,26,6,20
+West Brom,Blackburn,home,1,107,11,13,10,12,-2
+Blackburn,West Brom,away,1,107,13,11,12,10,2
+Bolton,Man City,home,3,108,11,13,8,13,-5
+Man City,Bolton,away,0,108,13,11,13,8,5
+Newcastle,Aston Villa,home,3,109,12,20,9,20,-11
+Aston Villa,Newcastle,away,0,109,20,12,20,9,11
+Arsenal,Man United,home,3,110,23,21,20,21,-1
+Man United,Arsenal,away,0,110,21,23,21,20,1
+Hull,Bolton,home,0,111,20,14,20,11,9
+Bolton,Hull,away,3,111,14,20,11,20,-9
+Liverpool,West Brom,home,3,112,29,11,26,11,15
+West Brom,Liverpool,away,0,112,11,29,11,26,-15
+Sunderland,Portsmouth,home,0,113,12,17,12,14,-2
+Portsmouth,Sunderland,away,3,113,17,12,14,12,2
+West Ham,Everton,home,0,114,13,18,13,15,-2
+Everton,West Ham,away,3,114,18,13,15,13,2
+Wigan,Stoke,home,1,115,12,14,11,13,-2
+Stoke,Wigan,away,1,115,14,12,13,11,2
+Aston Villa,Middlesbrough,home,0,116,20,17,20,14,6
+Middlesbrough,Aston Villa,away,3,116,17,20,14,20,-6
+Blackburn,Chelsea,home,0,117,13,29,13,26,-13
+Chelsea,Blackburn,away,3,117,29,13,26,13,13
+Fulham,Newcastle,home,3,118,14,12,11,12,-1
+Newcastle,Fulham,away,0,118,12,14,12,11,1
+Man City,Tottenham,home,0,119,13,12,13,9,4
+Tottenham,Man City,away,3,119,12,13,9,13,-4
+Arsenal,Aston Villa,home,0,120,23,23,23,20,3
+Aston Villa,Arsenal,away,3,120,23,23,20,23,-3
+Blackburn,Sunderland,home,0,121,13,15,13,12,1
+Sunderland,Blackburn,away,3,121,15,13,12,13,-1
+Bolton,Liverpool,home,0,122,14,32,14,29,-15
+Liverpool,Bolton,away,3,122,32,14,29,14,15
+Fulham,Tottenham,home,3,123,17,12,14,12,2
+Tottenham,Fulham,away,0,123,12,17,12,14,-2
+Man United,Stoke,home,3,124,24,14,21,14,7
+Stoke,Man United,away,0,124,14,24,14,21,-7
+Newcastle,Wigan,home,1,125,13,13,12,12,0
+Wigan,Newcastle,away,1,125,13,13,12,12,0
+West Brom,Chelsea,home,0,126,11,32,11,29,-18
+Chelsea,West Brom,away,3,126,32,11,29,11,18
+West Ham,Portsmouth,home,1,127,14,18,13,17,-4
+Portsmouth,West Ham,away,1,127,18,14,17,13,4
+Everton,Middlesbrough,home,1,128,19,18,18,17,1
+Middlesbrough,Everton,away,1,128,18,19,17,18,-1
+Hull,Man City,home,1,129,21,14,20,13,7
+Man City,Hull,away,1,129,14,21,13,20,-7
+Aston Villa,Man United,home,1,130,24,25,23,24,-1
+Man United,Aston Villa,away,1,130,25,24,24,23,1
+Chelsea,Newcastle,home,1,131,33,14,32,13,19
+Newcastle,Chelsea,away,1,131,14,33,13,32,-19
+Liverpool,Fulham,home,1,132,33,18,32,17,15
+Fulham,Liverpool,away,1,132,18,33,17,32,-15
+Man City,Arsenal,home,3,133,17,23,14,23,-9
+Arsenal,Man City,away,0,133,23,17,23,14,9
+Middlesbrough,Bolton,home,0,134,18,17,18,14,4
+Bolton,Middlesbrough,away,3,134,17,18,14,18,-4
+Portsmouth,Hull,home,1,135,19,22,18,21,-3
+Hull,Portsmouth,away,1,135,22,19,21,18,3
+Stoke,West Brom,home,3,136,17,11,14,11,3
+West Brom,Stoke,away,0,136,11,17,11,14,-3
+Sunderland,West Ham,home,0,137,15,17,15,14,1
+West Ham,Sunderland,away,3,137,17,15,14,15,-1
+Tottenham,Blackburn,home,3,138,15,13,12,13,-1
+Blackburn,Tottenham,away,0,138,13,15,13,12,1
+Wigan,Everton,home,3,139,16,19,13,19,-6
+Everton,Wigan,away,0,139,19,16,19,13,6
+Aston Villa,Fulham,home,1,140,25,19,24,18,6
+Fulham,Aston Villa,away,1,140,19,25,18,24,-6
+Middlesbrough,Newcastle,home,1,141,19,15,18,14,4
+Newcastle,Middlesbrough,away,1,141,15,19,14,18,-4
+Stoke,Hull,home,1,142,18,23,17,22,-5
+Hull,Stoke,away,1,142,23,18,22,17,5
+Sunderland,Bolton,home,0,143,15,20,15,17,-2
+Bolton,Sunderland,away,3,143,20,15,17,15,2
+Wigan,West Brom,home,3,144,19,11,16,11,5
+West Brom,Wigan,away,0,144,11,19,11,16,-5
+Chelsea,Arsenal,home,0,145,33,26,33,23,10
+Arsenal,Chelsea,away,3,145,26,33,23,33,-10
+Man City,Man United,home,0,146,17,28,17,25,-8
+Man United,Man City,away,3,146,28,17,25,17,8
+Portsmouth,Blackburn,home,3,147,22,13,19,13,6
+Blackburn,Portsmouth,away,0,147,13,22,13,19,-6
+Tottenham,Everton,home,0,148,15,22,15,19,-4
+Everton,Tottenham,away,3,148,22,15,19,15,4
+Liverpool,West Ham,home,1,149,34,18,33,17,16
+West Ham,Liverpool,away,1,149,18,34,17,33,-16
+Arsenal,Wigan,home,3,150,29,19,26,19,7
+Wigan,Arsenal,away,0,150,19,29,19,26,-7
+Blackburn,Liverpool,home,0,151,13,37,13,34,-21
+Liverpool,Blackburn,away,3,151,37,13,34,13,21
+Bolton,Chelsea,home,0,152,20,36,20,33,-13
+Chelsea,Bolton,away,3,152,36,20,33,20,13
+Fulham,Man City,home,1,153,20,18,19,17,2
+Man City,Fulham,away,1,153,18,20,17,19,-2
+Hull,Middlesbrough,home,3,154,26,19,23,19,4
+Middlesbrough,Hull,away,0,154,19,26,19,23,-4
+Man United,Sunderland,home,3,155,31,15,28,15,13
+Sunderland,Man United,away,0,155,15,31,15,28,-13
+Newcastle,Stoke,home,1,156,16,19,15,18,-3
+Stoke,Newcastle,away,1,156,19,16,18,15,3
+Everton,Aston Villa,home,0,157,22,28,22,25,-3
+Aston Villa,Everton,away,3,157,28,22,25,22,3
+West Brom,Portsmouth,home,1,158,12,23,11,22,-11
+Portsmouth,West Brom,away,1,158,23,12,22,11,11
+West Ham,Tottenham,home,0,159,18,18,18,15,3
+Tottenham,West Ham,away,3,159,18,18,15,18,-3
+Aston Villa,Bolton,home,3,160,31,20,28,20,8
+Bolton,Aston Villa,away,0,160,20,31,20,28,-8
+Liverpool,Hull,home,1,161,38,27,37,26,11
+Hull,Liverpool,away,1,161,27,38,26,37,-11
+Man City,Everton,home,0,162,18,25,18,22,-4
+Everton,Man City,away,3,162,25,18,22,18,4
+Middlesbrough,Arsenal,home,1,163,20,30,19,29,-10
+Arsenal,Middlesbrough,away,1,163,30,20,29,19,10
+Stoke,Fulham,home,1,164,20,21,19,20,-1
+Fulham,Stoke,away,1,164,21,20,20,19,1
+Sunderland,West Brom,home,3,165,18,12,15,12,3
+West Brom,Sunderland,away,0,165,12,18,12,15,-3
+Tottenham,Man United,home,1,166,19,32,18,31,-13
+Man United,Tottenham,away,1,166,32,19,31,18,13
+Wigan,Blackburn,home,3,167,22,13,19,13,6
+Blackburn,Wigan,away,0,167,13,22,13,19,-6
+Chelsea,West Ham,home,1,168,37,19,36,18,18
+West Ham,Chelsea,away,1,168,19,37,18,36,-18
+Portsmouth,Newcastle,home,0,169,23,19,23,16,7
+Newcastle,Portsmouth,away,3,169,19,23,16,23,-7
+Blackburn,Stoke,home,3,170,16,20,13,20,-7
+Stoke,Blackburn,away,0,170,20,16,20,13,7
+Bolton,Portsmouth,home,3,171,23,23,20,23,-3
+Portsmouth,Bolton,away,0,171,23,23,23,20,3
+Fulham,Middlesbrough,home,3,172,24,20,21,20,1
+Middlesbrough,Fulham,away,0,172,20,24,20,21,-1
+Hull,Sunderland,home,0,173,27,21,27,18,9
+Sunderland,Hull,away,3,173,21,27,18,27,-9
+West Ham,Aston Villa,home,0,174,19,34,19,31,-12
+Aston Villa,West Ham,away,3,174,34,19,31,19,12
+Arsenal,Liverpool,home,1,175,31,39,30,38,-8
+Liverpool,Arsenal,away,1,175,39,31,38,30,8
+Newcastle,Tottenham,home,3,176,22,19,19,19,0
+Tottenham,Newcastle,away,0,176,19,22,19,19,0
+West Brom,Man City,home,3,177,15,18,12,18,-6
+Man City,West Brom,away,0,177,18,15,18,12,6
+Everton,Chelsea,home,1,178,26,38,25,37,-12
+Chelsea,Everton,away,1,178,38,26,37,25,12
+Aston Villa,Arsenal,home,1,179,35,32,34,31,3
+Arsenal,Aston Villa,away,1,179,32,35,31,34,-3
+Chelsea,West Brom,home,3,180,41,15,38,15,23
+West Brom,Chelsea,away,0,180,15,41,15,38,-23
+Liverpool,Bolton,home,3,181,42,23,39,23,16
+Bolton,Liverpool,away,0,181,23,42,23,39,-16
+Man City,Hull,home,3,182,21,27,18,27,-9
+Hull,Man City,away,0,182,27,21,27,18,9
+Middlesbrough,Everton,home,0,183,20,29,20,26,-6
+Everton,Middlesbrough,away,3,183,29,20,26,20,6
+Portsmouth,West Ham,home,0,184,23,22,23,19,4
+West Ham,Portsmouth,away,3,184,22,23,19,23,-4
+Stoke,Man United,home,0,185,20,35,20,32,-12
+Man United,Stoke,away,3,185,35,20,32,20,12
+Sunderland,Blackburn,home,1,186,22,17,21,16,5
+Blackburn,Sunderland,away,1,186,17,22,16,21,-5
+Tottenham,Fulham,home,1,187,20,25,19,24,-5
+Fulham,Tottenham,away,1,187,25,20,24,19,5
+Wigan,Newcastle,home,3,188,25,22,22,22,0
+Newcastle,Wigan,away,0,188,22,25,22,22,0
+Arsenal,Portsmouth,home,3,189,35,23,32,23,9
+Portsmouth,Arsenal,away,0,189,23,35,23,32,-9
+Blackburn,Man City,home,1,190,18,22,17,21,-4
+Man City,Blackburn,away,1,190,22,18,21,17,4
+Bolton,Wigan,home,0,191,23,28,23,25,-2
+Wigan,Bolton,away,3,191,28,23,25,23,2
+Everton,Sunderland,home,3,192,32,22,29,22,7
+Sunderland,Everton,away,0,192,22,32,22,29,-7
+Fulham,Chelsea,home,1,193,26,42,25,41,-16
+Chelsea,Fulham,away,1,193,42,26,41,25,16
+Newcastle,Liverpool,home,0,194,22,45,22,42,-20
+Liverpool,Newcastle,away,3,194,45,22,42,22,20
+West Brom,Tottenham,home,3,195,18,20,15,20,-5
+Tottenham,West Brom,away,0,195,20,18,20,15,5
+West Ham,Stoke,home,3,196,25,20,22,20,2
+Stoke,West Ham,away,0,196,20,25,20,22,-2
+Man United,Middlesbrough,home,3,197,38,20,35,20,15
+Middlesbrough,Man United,away,0,197,20,38,20,35,-15
+Hull,Aston Villa,home,0,198,27,38,27,35,-8
+Aston Villa,Hull,away,3,198,38,27,35,27,8
+Arsenal,Bolton,home,3,199,38,23,35,23,12
+Bolton,Arsenal,away,0,199,23,38,23,35,-12
+Aston Villa,West Brom,home,3,200,41,18,38,18,20
+West Brom,Aston Villa,away,0,200,18,41,18,38,-20
+Everton,Hull,home,3,201,35,27,32,27,5
+Hull,Everton,away,0,201,27,35,27,32,-5
+Middlesbrough,Sunderland,home,1,202,21,23,20,22,-2
+Sunderland,Middlesbrough,away,1,202,23,21,22,20,2
+Newcastle,West Ham,home,1,203,23,26,22,25,-3
+West Ham,Newcastle,away,1,203,26,23,25,22,3
+Stoke,Liverpool,home,1,204,21,46,20,45,-25
+Liverpool,Stoke,away,1,204,46,21,45,20,25
+Man United,Chelsea,home,3,205,41,42,38,42,-4
+Chelsea,Man United,away,0,205,42,41,42,38,4
+Wigan,Tottenham,home,3,206,31,20,28,20,8
+Tottenham,Wigan,away,0,206,20,31,20,28,-8
+Man United,Wigan,home,3,207,44,31,41,31,10
+Wigan,Man United,away,0,207,31,44,31,41,-10
+Blackburn,Newcastle,home,3,208,21,23,18,23,-5
+Newcastle,Blackburn,away,0,208,23,21,23,18,5
+Bolton,Man United,home,0,209,23,47,23,44,-21
+Man United,Bolton,away,3,209,47,23,44,23,21
+Chelsea,Stoke,home,3,210,45,21,42,21,21
+Stoke,Chelsea,away,0,210,21,45,21,42,-21
+Hull,Arsenal,home,0,211,27,41,27,38,-11
+Arsenal,Hull,away,3,211,41,27,38,27,11
+Man City,Wigan,home,3,212,25,31,22,31,-9
+Wigan,Man City,away,0,212,31,25,31,22,9
+Sunderland,Aston Villa,home,0,213,23,44,23,41,-18
+Aston Villa,Sunderland,away,3,213,44,23,41,23,18
+West Brom,Middlesbrough,home,3,214,21,21,18,21,-3
+Middlesbrough,West Brom,away,0,214,21,21,21,18,3
+Tottenham,Portsmouth,home,1,215,21,24,20,23,-3
+Portsmouth,Tottenham,away,1,215,24,21,23,20,3
+West Ham,Fulham,home,3,216,29,26,26,26,0
+Fulham,West Ham,away,0,216,26,29,26,26,0
+Liverpool,Everton,home,1,217,47,36,46,35,11
+Everton,Liverpool,away,1,217,36,47,35,46,-11
+Portsmouth,Aston Villa,home,0,218,24,47,24,44,-20
+Aston Villa,Portsmouth,away,3,218,47,24,44,24,20
+Sunderland,Fulham,home,3,219,26,26,23,26,-3
+Fulham,Sunderland,away,0,219,26,26,26,23,3
+Tottenham,Stoke,home,3,220,24,21,21,21,0
+Stoke,Tottenham,away,0,220,21,24,21,21,0
+West Brom,Man United,home,0,221,21,50,21,47,-26
+Man United,West Brom,away,3,221,50,21,47,21,26
+Blackburn,Bolton,home,1,222,22,24,21,23,-2
+Bolton,Blackburn,away,1,222,24,22,23,21,2
+Chelsea,Middlesbrough,home,3,223,48,21,45,21,24
+Middlesbrough,Chelsea,away,0,223,21,48,21,45,-24
+Everton,Arsenal,home,1,224,37,42,36,41,-5
+Arsenal,Everton,away,1,224,42,37,41,36,5
+Man City,Newcastle,home,3,225,28,23,25,23,2
+Newcastle,Man City,away,0,225,23,28,23,25,-2
+West Ham,Hull,home,3,226,32,27,29,27,2
+Hull,West Ham,away,0,226,27,32,27,29,-2
+Wigan,Liverpool,home,1,227,32,48,31,47,-16
+Liverpool,Wigan,away,1,227,48,32,47,31,16
+Arsenal,West Ham,home,1,228,43,33,42,32,10
+West Ham,Arsenal,away,1,228,33,43,32,42,-10
+Aston Villa,Wigan,home,1,229,48,33,47,32,15
+Wigan,Aston Villa,away,1,229,33,48,32,47,-15
+Bolton,Tottenham,home,3,230,27,24,24,24,0
+Tottenham,Bolton,away,0,230,24,27,24,24,0
+Fulham,Portsmouth,home,3,231,29,24,26,24,2
+Portsmouth,Fulham,away,0,231,24,29,24,26,-2
+Hull,West Brom,home,1,232,28,22,27,21,6
+West Brom,Hull,away,1,232,22,28,21,27,-6
+Man United,Everton,home,3,233,53,37,50,37,13
+Everton,Man United,away,0,233,37,53,37,50,-13
+Middlesbrough,Blackburn,home,1,234,22,23,21,22,-1
+Blackburn,Middlesbrough,away,1,234,23,22,22,21,1
+Stoke,Man City,home,3,235,24,28,21,28,-7
+Man City,Stoke,away,0,235,28,24,28,21,7
+Liverpool,Chelsea,home,3,236,51,48,48,48,0
+Chelsea,Liverpool,away,0,236,48,51,48,48,0
+Newcastle,Sunderland,home,1,237,24,27,23,26,-3
+Sunderland,Newcastle,away,1,237,27,24,26,23,3
+Blackburn,Aston Villa,home,0,238,23,51,23,48,-25
+Aston Villa,Blackburn,away,3,238,51,23,48,23,25
+Chelsea,Hull,home,1,239,49,29,48,28,20
+Hull,Chelsea,away,1,239,29,49,28,48,-20
+Everton,Bolton,home,3,240,40,27,37,27,10
+Bolton,Everton,away,0,240,27,40,27,37,-10
+Man City,Middlesbrough,home,3,241,31,22,28,22,6
+Middlesbrough,Man City,away,0,241,22,31,22,28,-6
+Portsmouth,Liverpool,home,0,242,24,54,24,51,-27
+Liverpool,Portsmouth,away,3,242,54,24,51,24,27
+Sunderland,Stoke,home,3,243,30,24,27,24,3
+Stoke,Sunderland,away,0,243,24,30,24,27,-3
+West Brom,Newcastle,home,0,244,22,27,22,24,-2
+Newcastle,West Brom,away,3,244,27,22,24,22,2
+Wigan,Fulham,home,1,245,34,30,33,29,4
+Fulham,Wigan,away,1,245,30,34,29,33,-4
+Tottenham,Arsenal,home,1,246,25,44,24,43,-19
+Arsenal,Tottenham,away,1,246,44,25,43,24,19
+West Ham,Man United,home,0,247,33,56,33,53,-20
+Man United,West Ham,away,3,247,56,33,53,33,20
+Portsmouth,Man City,home,3,248,27,31,24,31,-7
+Man City,Portsmouth,away,0,248,31,27,31,24,7
+Man United,Fulham,home,3,249,59,30,56,30,26
+Fulham,Man United,away,0,249,30,59,30,56,-26
+Arsenal,Sunderland,home,1,250,45,31,44,30,14
+Sunderland,Arsenal,away,1,250,31,45,30,44,-14
+Aston Villa,Chelsea,home,0,251,51,52,51,49,2
+Chelsea,Aston Villa,away,3,251,52,51,49,51,-2
+Bolton,West Ham,home,3,252,30,33,27,33,-6
+West Ham,Bolton,away,0,252,33,30,33,27,6
+Man United,Blackburn,home,3,253,62,23,59,23,36
+Blackburn,Man United,away,0,253,23,62,23,59,-36
+Middlesbrough,Wigan,home,1,254,23,35,22,34,-12
+Wigan,Middlesbrough,away,1,254,35,23,34,22,12
+Stoke,Portsmouth,home,1,255,25,28,24,27,-3
+Portsmouth,Stoke,away,1,255,28,25,27,24,3
+Fulham,West Brom,home,3,256,33,22,30,22,8
+West Brom,Fulham,away,0,256,22,33,22,30,-8
+Liverpool,Man City,home,1,257,55,32,54,31,23
+Man City,Liverpool,away,1,257,32,55,31,54,-23
+Newcastle,Everton,home,1,258,28,41,27,40,-13
+Everton,Newcastle,away,1,258,41,28,40,27,13
+Hull,Tottenham,home,0,259,29,28,29,25,4
+Tottenham,Hull,away,3,259,28,29,25,29,-4
+Arsenal,Fulham,home,1,260,46,34,45,33,12
+Fulham,Arsenal,away,1,260,34,46,33,45,-12
+Chelsea,Wigan,home,3,261,55,35,52,35,17
+Wigan,Chelsea,away,0,261,35,55,35,52,-17
+Everton,West Brom,home,3,262,44,22,41,22,19
+West Brom,Everton,away,0,262,22,44,22,41,-19
+Middlesbrough,Liverpool,home,3,263,26,55,23,55,-32
+Liverpool,Middlesbrough,away,0,263,55,26,55,23,32
+Aston Villa,Stoke,home,1,264,52,26,51,25,26
+Stoke,Aston Villa,away,1,264,26,52,25,51,-26
+Bolton,Newcastle,home,3,265,33,28,30,28,2
+Newcastle,Bolton,away,0,265,28,33,28,30,-2
+Hull,Blackburn,home,0,266,29,26,29,23,6
+Blackburn,Hull,away,3,266,26,29,23,29,-6
+West Ham,Man City,home,3,267,36,32,33,32,1
+Man City,West Ham,away,0,267,32,36,32,33,-1
+Liverpool,Sunderland,home,3,268,58,31,55,31,24
+Sunderland,Liverpool,away,0,268,31,58,31,55,-24
+Portsmouth,Chelsea,home,0,269,28,58,28,55,-27
+Chelsea,Portsmouth,away,3,269,58,28,55,28,27
+West Brom,Arsenal,home,0,270,22,49,22,46,-24
+Arsenal,West Brom,away,3,270,49,22,46,22,24
+Blackburn,Everton,home,1,271,27,45,26,44,-18
+Everton,Blackburn,away,1,271,45,27,44,26,18
+Fulham,Hull,home,0,272,34,32,34,29,5
+Hull,Fulham,away,3,272,32,34,29,34,-5
+Man City,Aston Villa,home,3,273,35,52,32,52,-20
+Aston Villa,Man City,away,0,273,52,35,52,32,20
+Newcastle,Man United,home,0,274,28,65,28,62,-34
+Man United,Newcastle,away,3,274,65,28,62,28,34
+Stoke,Bolton,home,3,275,29,33,26,33,-7
+Bolton,Stoke,away,0,275,33,29,33,26,7
+Tottenham,Middlesbrough,home,3,276,31,26,28,26,2
+Middlesbrough,Tottenham,away,0,276,26,31,26,28,-2
+Wigan,West Ham,home,0,277,35,39,35,36,-1
+West Ham,Wigan,away,3,277,39,35,36,35,1
+Sunderland,Tottenham,home,1,278,32,32,31,31,0
+Tottenham,Sunderland,away,1,278,32,32,31,31,0
+Fulham,Blackburn,home,0,279,34,30,34,27,7
+Blackburn,Fulham,away,3,279,30,34,27,34,-7
+Arsenal,Blackburn,home,3,280,52,30,49,30,19
+Blackburn,Arsenal,away,0,280,30,52,30,49,-19
+Bolton,Fulham,home,0,281,33,37,33,34,-1
+Fulham,Bolton,away,3,281,37,33,34,33,1
+Everton,Stoke,home,3,282,48,29,45,29,16
+Stoke,Everton,away,0,282,29,48,29,45,-16
+Hull,Newcastle,home,1,283,33,29,32,28,4
+Newcastle,Hull,away,1,283,29,33,28,32,-4
+Man United,Liverpool,home,0,284,65,61,65,58,7
+Liverpool,Man United,away,3,284,61,65,58,65,-7
+Middlesbrough,Portsmouth,home,1,285,27,29,26,28,-2
+Portsmouth,Middlesbrough,away,1,285,29,27,28,26,2
+Sunderland,Wigan,home,0,286,32,38,32,35,-3
+Wigan,Sunderland,away,3,286,38,32,35,32,3
+Aston Villa,Tottenham,home,0,287,52,35,52,32,20
+Tottenham,Aston Villa,away,3,287,35,52,32,52,-20
+Chelsea,Man City,home,3,288,61,35,58,35,23
+Man City,Chelsea,away,0,288,35,61,35,58,-23
+West Ham,West Brom,home,1,289,40,23,39,22,17
+West Brom,West Ham,away,1,289,23,40,22,39,-17
+Blackburn,West Ham,home,1,290,31,41,30,40,-10
+West Ham,Blackburn,away,1,290,41,31,40,30,10
+Fulham,Man United,home,3,291,40,65,37,65,-28
+Man United,Fulham,away,0,291,65,40,65,37,28
+Newcastle,Arsenal,home,0,292,29,55,29,52,-23
+Arsenal,Newcastle,away,3,292,55,29,52,29,23
+Portsmouth,Everton,home,3,293,32,48,29,48,-19
+Everton,Portsmouth,away,0,293,48,32,48,29,19
+Stoke,Middlesbrough,home,3,294,32,27,29,27,2
+Middlesbrough,Stoke,away,0,294,27,32,27,29,-2
+Tottenham,Chelsea,home,3,295,38,61,35,61,-26
+Chelsea,Tottenham,away,0,295,61,38,61,35,26
+West Brom,Bolton,home,1,296,24,34,23,33,-10
+Bolton,West Brom,away,1,296,34,24,33,23,10
+Liverpool,Aston Villa,home,3,297,64,52,61,52,9
+Aston Villa,Liverpool,away,0,297,52,64,52,61,-9
+Man City,Sunderland,home,3,298,38,32,35,32,3
+Sunderland,Man City,away,0,298,32,38,32,35,-3
+Wigan,Hull,home,3,299,41,33,38,33,5
+Hull,Wigan,away,0,299,33,41,33,38,-5
+Arsenal,Man City,home,3,300,58,38,55,38,17
+Man City,Arsenal,away,0,300,38,58,38,55,-17
+Blackburn,Tottenham,home,3,301,34,38,31,38,-7
+Tottenham,Blackburn,away,0,301,38,34,38,31,7
+Bolton,Middlesbrough,home,3,302,37,27,34,27,7
+Middlesbrough,Bolton,away,0,302,27,37,27,34,-7
+Fulham,Liverpool,home,0,303,40,67,40,64,-24
+Liverpool,Fulham,away,3,303,67,40,64,40,24
+Hull,Portsmouth,home,1,304,34,33,33,32,1
+Portsmouth,Hull,away,1,304,33,34,32,33,-1
+Newcastle,Chelsea,home,0,305,29,64,29,61,-32
+Chelsea,Newcastle,away,3,305,64,29,61,29,32
+West Brom,Stoke,home,0,306,24,35,24,32,-8
+Stoke,West Brom,away,3,306,35,24,32,24,8
+West Ham,Sunderland,home,3,307,44,32,41,32,9
+Sunderland,West Ham,away,0,307,32,44,32,41,-9
+Everton,Wigan,home,3,308,51,41,48,41,7
+Wigan,Everton,away,0,308,41,51,41,48,-7
+Man United,Aston Villa,home,3,309,68,52,65,52,13
+Aston Villa,Man United,away,0,309,52,68,52,65,-13
+Chelsea,Bolton,home,3,310,67,37,64,37,27
+Bolton,Chelsea,away,0,310,37,67,37,64,-27
+Liverpool,Blackburn,home,3,311,70,34,67,34,33
+Blackburn,Liverpool,away,0,311,34,70,34,67,-33
+Middlesbrough,Hull,home,3,312,30,34,27,34,-7
+Hull,Middlesbrough,away,0,312,34,30,34,27,7
+Portsmouth,West Brom,home,1,313,34,25,33,24,9
+West Brom,Portsmouth,away,1,313,25,34,24,33,-9
+Stoke,Newcastle,home,1,314,36,30,35,29,6
+Newcastle,Stoke,away,1,314,30,36,29,35,-6
+Sunderland,Man United,home,0,315,32,71,32,68,-36
+Man United,Sunderland,away,3,315,71,32,68,32,36
+Tottenham,West Ham,home,3,316,41,44,38,44,-6
+West Ham,Tottenham,away,0,316,44,41,44,38,6
+Wigan,Arsenal,home,0,317,41,61,41,58,-17
+Arsenal,Wigan,away,3,317,61,41,58,41,17
+Aston Villa,Everton,home,1,318,53,52,52,51,1
+Everton,Aston Villa,away,1,318,52,53,51,52,-1
+Man City,Fulham,home,0,319,38,43,38,40,-2
+Fulham,Man City,away,3,319,43,38,40,38,2
+Aston Villa,West Ham,home,1,320,54,45,53,44,9
+West Ham,Aston Villa,away,1,320,45,54,44,53,-9
+Middlesbrough,Fulham,home,1,321,31,44,30,43,-13
+Fulham,Middlesbrough,away,1,321,44,31,43,30,13
+Portsmouth,Bolton,home,3,322,37,37,34,37,-3
+Bolton,Portsmouth,away,0,322,37,37,37,34,3
+Stoke,Blackburn,home,3,323,39,34,36,34,2
+Blackburn,Stoke,away,0,323,34,39,34,36,-2
+Sunderland,Hull,home,3,324,35,34,32,34,-2
+Hull,Sunderland,away,0,324,34,35,34,32,2
+Man City,West Brom,home,3,325,41,25,38,25,13
+West Brom,Man City,away,0,325,25,41,25,38,-13
+Tottenham,Newcastle,home,3,326,44,30,41,30,11
+Newcastle,Tottenham,away,0,326,30,44,30,41,-11
+Liverpool,Arsenal,home,1,327,71,62,70,61,9
+Arsenal,Liverpool,away,1,327,62,71,61,70,-9
+Chelsea,Everton,home,1,328,68,53,67,52,15
+Everton,Chelsea,away,1,328,53,68,52,67,-15
+Man United,Portsmouth,home,3,329,74,37,71,37,34
+Portsmouth,Man United,away,0,329,37,74,37,71,-34
+Bolton,Aston Villa,home,1,330,38,55,37,54,-17
+Aston Villa,Bolton,away,1,330,55,38,54,37,17
+Everton,Man City,home,0,331,53,44,53,41,12
+Man City,Everton,away,3,331,44,53,41,53,-12
+Fulham,Stoke,home,3,332,47,39,44,39,5
+Stoke,Fulham,away,0,332,39,47,39,44,-5
+Hull,Liverpool,home,0,333,34,74,34,71,-37
+Liverpool,Hull,away,3,333,74,34,71,34,37
+Man United,Tottenham,home,3,334,77,44,74,44,30
+Tottenham,Man United,away,0,334,44,77,44,74,-30
+West Brom,Sunderland,home,3,335,28,35,25,35,-10
+Sunderland,West Brom,away,0,335,35,28,35,25,10
+West Ham,Chelsea,home,0,336,45,71,45,68,-23
+Chelsea,West Ham,away,3,336,71,45,68,45,23
+Arsenal,Middlesbrough,home,3,337,65,31,62,31,31
+Middlesbrough,Arsenal,away,0,337,31,65,31,62,-31
+Blackburn,Wigan,home,3,338,37,41,34,41,-7
+Wigan,Blackburn,away,0,338,41,37,41,34,7
+Newcastle,Portsmouth,home,1,339,31,38,30,37,-7
+Portsmouth,Newcastle,away,1,339,38,31,37,30,7
+Chelsea,Fulham,home,3,340,74,47,71,47,24
+Fulham,Chelsea,away,0,340,47,74,47,71,-24
+Man City,Blackburn,home,3,341,47,37,44,37,7
+Blackburn,Man City,away,0,341,37,47,37,44,-7
+Middlesbrough,Man United,home,0,342,31,80,31,77,-46
+Man United,Middlesbrough,away,3,342,80,31,77,31,46
+Portsmouth,Arsenal,home,0,343,38,68,38,65,-27
+Arsenal,Portsmouth,away,3,343,68,38,65,38,27
+Stoke,West Ham,home,0,344,39,48,39,45,-6
+West Ham,Stoke,away,3,344,48,39,45,39,6
+Tottenham,West Brom,home,3,345,47,28,44,28,16
+West Brom,Tottenham,away,0,345,28,47,28,44,-16
+Wigan,Bolton,home,1,346,42,39,41,38,3
+Bolton,Wigan,away,1,346,39,42,38,41,-3
+Liverpool,Newcastle,home,3,347,77,31,74,31,43
+Newcastle,Liverpool,away,0,347,31,77,31,74,-43
+Sunderland,Everton,home,0,348,35,56,35,53,-18
+Everton,Sunderland,away,3,348,56,35,53,35,18
+Aston Villa,Hull,home,3,349,58,34,55,34,21
+Hull,Aston Villa,away,0,349,34,58,34,55,-21
+Blackburn,Portsmouth,home,3,350,40,38,37,38,-1
+Portsmouth,Blackburn,away,0,350,38,40,38,37,1
+Bolton,Sunderland,home,1,351,40,36,39,35,4
+Sunderland,Bolton,away,1,351,36,40,35,39,-4
+Everton,Tottenham,home,1,352,57,48,56,47,9
+Tottenham,Everton,away,1,352,48,57,47,56,-9
+Fulham,Aston Villa,home,3,353,50,58,47,58,-11
+Aston Villa,Fulham,away,0,353,58,50,58,47,11
+Hull,Stoke,home,0,354,34,42,34,39,-5
+Stoke,Hull,away,3,354,42,34,39,34,5
+West Brom,Wigan,home,3,355,31,42,28,42,-14
+Wigan,West Brom,away,0,355,42,31,42,28,14
+West Ham,Liverpool,home,0,356,48,80,48,77,-29
+Liverpool,West Ham,away,3,356,80,48,77,48,29
+Arsenal,Chelsea,home,0,357,68,77,68,74,-6
+Chelsea,Arsenal,away,3,357,77,68,74,68,6
+Man United,Man City,home,3,358,83,47,80,47,33
+Man City,Man United,away,0,358,47,83,47,80,-33
+Newcastle,Middlesbrough,home,3,359,34,31,31,31,0
+Middlesbrough,Newcastle,away,0,359,31,34,31,31,0
+Wigan,Man United,home,0,360,42,86,42,83,-41
+Man United,Wigan,away,3,360,86,42,83,42,41
+Bolton,Hull,home,1,361,41,35,40,34,6
+Hull,Bolton,away,1,361,35,41,34,40,-6
+Everton,West Ham,home,3,362,60,48,57,48,9
+West Ham,Everton,away,0,362,48,60,48,57,-9
+Man United,Arsenal,home,1,363,87,69,86,68,18
+Arsenal,Man United,away,1,363,69,87,68,86,-18
+Middlesbrough,Aston Villa,home,1,364,32,59,31,58,-27
+Aston Villa,Middlesbrough,away,1,364,59,32,58,31,27
+Newcastle,Fulham,home,0,365,34,53,34,50,-16
+Fulham,Newcastle,away,3,365,53,34,50,34,16
+Stoke,Wigan,home,3,366,45,42,42,42,0
+Wigan,Stoke,away,0,366,42,45,42,42,0
+Tottenham,Man City,home,3,367,51,47,48,47,1
+Man City,Tottenham,away,0,367,47,51,47,48,-1
+Chelsea,Blackburn,home,3,368,80,40,77,40,37
+Blackburn,Chelsea,away,0,368,40,80,40,77,-37
+West Brom,Liverpool,home,0,369,31,83,31,80,-49
+Liverpool,West Brom,away,3,369,83,31,80,31,49
+Portsmouth,Sunderland,home,3,370,41,36,38,36,2
+Sunderland,Portsmouth,away,0,370,36,41,36,38,-2
+Arsenal,Stoke,home,3,371,72,45,69,45,24
+Stoke,Arsenal,away,0,371,45,72,45,69,-24
+Aston Villa,Newcastle,home,3,372,62,34,59,34,25
+Newcastle,Aston Villa,away,0,372,34,62,34,59,-25
+Blackburn,West Brom,home,1,373,41,32,40,31,9
+West Brom,Blackburn,away,1,373,32,41,31,40,-9
+Fulham,Everton,home,0,374,53,63,53,60,-7
+Everton,Fulham,away,3,374,63,53,60,53,7
+Hull,Man United,home,0,375,35,90,35,87,-52
+Man United,Hull,away,3,375,90,35,87,35,52
+Liverpool,Tottenham,home,3,376,86,51,83,51,32
+Tottenham,Liverpool,away,0,376,51,86,51,83,-32
+Man City,Bolton,home,3,377,50,41,47,41,6
+Bolton,Man City,away,0,377,41,50,41,47,-6
+Sunderland,Chelsea,home,0,378,36,83,36,80,-44
+Chelsea,Sunderland,away,3,378,83,36,80,36,44
+West Ham,Middlesbrough,home,3,379,51,32,48,32,16
+Middlesbrough,West Ham,away,0,379,32,51,32,48,-16
+Wigan,Portsmouth,home,3,380,45,41,42,41,1
+Portsmouth,Wigan,away,0,380,41,45,41,42,-1
